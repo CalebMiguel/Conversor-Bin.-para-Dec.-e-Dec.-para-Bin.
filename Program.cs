@@ -5,14 +5,22 @@ bool continuar = false;
 string? saída = "";
 string? opçãoMenu = "";
 
+//Cria um array que contém os multiplicadores elevados de 0 a 21, que serão utilizados para converter binário para decimal.
+int[] multiplicadorElevadoDe0a21 = new int[22];
+multiplicadorElevadoDe0a21[0] = 1;
+multiplicadorElevadoDe0a21[1] = 2;
+for (int h = 2; h < 22; h++)
+{
+    multiplicadorElevadoDe0a21[h] = multiplicadorElevadoDe0a21[h - 1] * multiplicadorElevadoDe0a21[1];
+
+}
+
 //Limpa o terminal antes de iniciar o programa
 Console.Clear();
 
 //loop principal do programa, que permite ao usuário escolher entre converter decimal para binário ou binário para decimal, e também permite sair do programa.
 do
 {
-
-
     Console.WriteLine("\t\t\tConversor Binário para Decimal e Decimal para Binário\n");
     Console.WriteLine("Digite 'Binário' para converter decimal para binário ou 'Decimal' para converter binário para decimal ou 'Sair' para encerrar:");
     opçãoMenu = Console.ReadLine();

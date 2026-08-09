@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conversor Binário para Decimal e Decimal para Binário")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62942e524916014a1524213a36f19fee2a3a6414")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conversor Binário para Decimal e Decimal para Binário")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conversor Binário para Decimal e Decimal para Binário")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

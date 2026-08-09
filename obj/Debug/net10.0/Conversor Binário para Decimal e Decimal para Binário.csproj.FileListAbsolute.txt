@@ -12,3 +12,4 @@ C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Bi
 C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\obj\Debug\net10.0\Conversor Binário para Decimal e Decimal para Binário.pdb
 C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\obj\Debug\net10.0\Conversor Binário para Decimal e Decimal para Binário.genruntimeconfig.cache
 C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\obj\Debug\net10.0\ref\Conversor Binário para Decimal e Decimal para Binário.dll
+C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\obj\Debug\net10.0\Conversor Binário para Decimal e Decimal para Binário.sourcelink.json
