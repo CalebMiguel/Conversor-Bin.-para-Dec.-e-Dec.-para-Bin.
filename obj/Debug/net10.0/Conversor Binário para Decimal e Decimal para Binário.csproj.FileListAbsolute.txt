@@ -1,0 +1,14 @@
+C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\obj\Debug\net10.0\Conversor Binário para Decimal e Decimal para Binário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\obj\Debug\net10.0\Conversor Binário para Decimal e Decimal para Binário.AssemblyInfoInputs.cache
+C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\obj\Debug\net10.0\Conversor Binário para Decimal e Decimal para Binário.AssemblyInfo.cs
+C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\obj\Debug\net10.0\Conversor Binário para Decimal e Decimal para Binário.csproj.CoreCompileInputs.cache
+C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\bin\Debug\net10.0\Conversor Binário para Decimal e Decimal para Binário.exe
+C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\bin\Debug\net10.0\Conversor Binário para Decimal e Decimal para Binário.deps.json
+C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\bin\Debug\net10.0\Conversor Binário para Decimal e Decimal para Binário.runtimeconfig.json
+C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\bin\Debug\net10.0\Conversor Binário para Decimal e Decimal para Binário.dll
+C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\bin\Debug\net10.0\Conversor Binário para Decimal e Decimal para Binário.pdb
+C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\obj\Debug\net10.0\Conversor Binário para Decimal e Decimal para Binário.dll
+C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\obj\Debug\net10.0\refint\Conversor Binário para Decimal e Decimal para Binário.dll
+C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\obj\Debug\net10.0\Conversor Binário para Decimal e Decimal para Binário.pdb
+C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\obj\Debug\net10.0\Conversor Binário para Decimal e Decimal para Binário.genruntimeconfig.cache
+C:\Users\caleb\Projetos VSCode\Conversor Binário para Decimal e Decimal para Binário\obj\Debug\net10.0\ref\Conversor Binário para Decimal e Decimal para Binário.dll
