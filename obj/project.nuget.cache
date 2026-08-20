@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "fOSl0MgQtes=",
+  "dgSpecHash": "KrSVNRrLkB4=",
   "success": true,
   "projectFilePath": "C:\\Users\\caleb\\Projetos VSCode\\Conversor Binário para Decimal e Decimal para Binário\\Conversor Binário para Decimal e Decimal para Binário.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\caleb\\Projetos VSCode\\Conversor Binário para Decimal e Decimal para Binário\\obj\\project.nuget.cache: '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\caleb\\Projetos VSCode\\Conversor Binário para Decimal e Decimal para Binário\\Conversor Binário para Decimal e Decimal para Binário.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\caleb\\Projetos VSCode\\Conversor Binário para Decimal e Decimal para Binário\\Conversor Binário para Decimal e Decimal para Binário.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
